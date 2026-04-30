@@ -2,7 +2,7 @@
 <!--                         🌊 ANIMATED HEADER BANNER                         -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,30:a855f7,60:ec4899,100:f97316&height=280&section=header&text=✨%20Annasha%20Dutta%20✨&fontSize=65&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58&descColor=ffffff&stroke=ffffff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,30:a855f7,60:ec4899,100:f97316&height=300&section=header&text=✨%20Annasha%20Dutta%20✨&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=60&descColor=ffffff&stroke=ffffff&strokeWidth=2"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!--                          ⌨️ ANIMATED TYPING SVG                            -->
@@ -11,7 +11,7 @@
 <div align="center">
 
   <a href="https://github.com/duttannasha26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+AI%2C+Web+Dev+%26+Innovation;%F0%9F%9A%80+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%E2%9A%A1+Building+the+future+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+AI+Web+Dev+and+Innovation;%F0%9F%9A%80+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
   </a>
 
 </div>
