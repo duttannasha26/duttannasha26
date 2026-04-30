@@ -2,7 +2,7 @@
 <!--                         🌊 ANIMATED HEADER BANNER                         -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Annasha%20Dutta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=55&descColor=c9d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,30:a855f7,60:ec4899,100:f97316&height=280&section=header&text=✨%20Annasha%20Dutta%20✨&fontSize=65&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58&descColor=ffffff&stroke=ffffff&strokeWidth=1"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!--                          ⌨️ ANIMATED TYPING SVG                            -->
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+AI%2C+Web+Dev+%26+Innovation)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+AI%2C+Web+Dev+%26+Innovation;%F0%9F%9A%80+Turning+ideas+into+reality+with+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -320,4 +320,4 @@ fun_fact: "I debug in my dreams 💭"
 <!--                       🌊 ANIMATED FOOTER WAVE                              -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a1b27,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,30:ec4899,60:a855f7,100:6c63ff&height=120&section=footer"/>
