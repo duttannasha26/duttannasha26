@@ -9,11 +9,9 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
   <a href="https://github.com/duttannasha26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=1200&height=70&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%E2%9A%A1+Building+the+future+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+AI+Web+Dev+and+Innovation;%F0%9F%9A%80+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=1200&height=70&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%E2%9A%A1+Building+the+future+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+AI+Web+Dev+and+Innovation;%F0%9F%9A%80+Turning+ideas+into+reality+with+code" alt="Typing SVG" />
   </a>
-
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
