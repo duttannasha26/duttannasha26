@@ -34,33 +34,34 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Female Coder Girl"/>
+    </td>
+    <td width="50%">
+      <h3 align="center">👩🏻‍💻 Hello, I'm Annasha!</h3>
+      <p align="center"><i>A passionate Computer Science student and Full-Stack Developer from Kolkata, India.</i></p>
+      <ul>
+        <li>🚀 <b>Focus:</b> Full-Stack Web Development & Artificial Intelligence</li>
+        <li>🌱 <b>Learning:</b> React.js, Next.js, Firebase & Machine Learning</li>
+        <li>🔭 <b>Interests:</b> Cloud Computing, Data Analytics, Open Source</li>
+        <li>⚡ <b>Hobbies:</b> UI/UX Design, Tech Blogging, Competitive Programming</li>
+        <li>💭 <b>Fun Fact:</b> I debug in my dreams!</li>
+      </ul>
+      <br/>
+      <p align="center">
+        <a href="mailto:duttannasha26@gmail.com">
+          <img src="https://img.shields.io/badge/Say_Hi-6c63ff?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say Hi" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
-```yaml
-name: Annasha Dutta
-located_in: Kolkata, India 🇮🇳
-current_focus: Full-Stack Web Development & AI
-education:
-  - "Computer Science Student"
-fields_of_interest:
-  - "Web Development"
-  - "Artificial Intelligence"
-  - "Data Analytics"
-  - "Cloud Computing"
-  - "Open Source"
-currently_learning:
-  - "React.js & Next.js"
-  - "Node.js & Express"
-  - "Firebase & Cloud Services"
-  - "Machine Learning"
-hobbies:
-  - "Competitive Programming"
-  - "UI/UX Design"
-  - "Tech Blogging"
-fun_fact: "I debug in my dreams 💭"
-```
-
-<br clear="both"/>
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!--                       ⚡ QUICK HIGHLIGHTS                                  -->
