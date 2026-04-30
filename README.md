@@ -283,13 +283,6 @@ fun_fact: "I debug in my dreams 💭"
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!--                       🏅 GITHUB METRICS                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duttannasha26&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" alt="Wakatime Stats" />
-</div>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!--                         📌 PINNED NOTE                                     -->
